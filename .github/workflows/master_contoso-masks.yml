@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'contoso-masks'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9EF525F56FBF4A8E91424706D044464C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60CF75A437344292B17E3006989FD2E8 }}
           package: .
